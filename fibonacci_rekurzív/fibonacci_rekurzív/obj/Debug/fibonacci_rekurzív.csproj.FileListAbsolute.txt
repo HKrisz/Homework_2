@@ -1,0 +1,7 @@
+C:\Users\Dell\Desktop\Gyakorlás\fibonacci_rekurzív\fibonacci_rekurzív\bin\Debug\fibonacci_rekurzív.exe.config
+C:\Users\Dell\Desktop\Gyakorlás\fibonacci_rekurzív\fibonacci_rekurzív\bin\Debug\fibonacci_rekurzív.exe
+C:\Users\Dell\Desktop\Gyakorlás\fibonacci_rekurzív\fibonacci_rekurzív\bin\Debug\fibonacci_rekurzív.pdb
+C:\Users\Dell\Desktop\Gyakorlás\fibonacci_rekurzív\fibonacci_rekurzív\obj\Debug\fibonacci_rekurzív.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gyakorlás\fibonacci_rekurzív\fibonacci_rekurzív\obj\Debug\fibonacci_rekurzív.exe
+C:\Users\Dell\Desktop\Gyakorlás\fibonacci_rekurzív\fibonacci_rekurzív\obj\Debug\fibonacci_rekurzív.pdb
+C:\Users\Dell\Desktop\Gyakorlás\fibonacci_rekurzív\fibonacci_rekurzív\obj\Debug\fibonacci_rekurzív.csprojAssemblyReference.cache
